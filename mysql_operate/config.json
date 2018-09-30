@@ -1,0 +1,7 @@
+{
+  "host": "192.168.0.102",
+  "port": 3306,
+  "database": "zcb_jz",
+  "user": "root",
+  "password": "root!local@1305"
+}
